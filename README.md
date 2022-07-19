@@ -7,4 +7,4 @@ tan(2025 ^ 0.5)
 2*(589+((2454*0.1548/0.01*(-2+9^2))+((25*123.12+45877*25)+25))-547)
 -(-2^(-2))+2+(-(-2^(-2)))
 
-The task is recursively with regular expressions, Pattern and Matcher classes.
+The task is solved recursively, with regular expressions, Pattern and Matcher classes.
